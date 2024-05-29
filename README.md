@@ -1,3 +1,3 @@
 # Techvolution_minor_project
 Live Url
-https://theunstopabble.github.io/Techvolution_minor_project/
+https://dayanand8757.github.io/Techvolution_Minor_Project/
